@@ -1,1 +1,1 @@
-# flutterwidgets
+# This folder contains example apps that we created for the purpose of explaining the widgets in Flutter
